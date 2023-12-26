@@ -4,7 +4,7 @@
 
 ### 不想学习🤣🤣
 
-[![bilibili](https://space.bilibili.com/3546590675471092-yello)](https://www.zhihu.com/people/o4ze4r)
+[![bilibili](https://space.bilibili.com/3546590675471092-yello)]([https://www.zhihu.com/people/o4ze4r](https://space.bilibili.com/3546590675471092))
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
